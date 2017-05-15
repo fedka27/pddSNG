@@ -1,16 +1,24 @@
 ﻿{
     "books": [
         
-{
+        {
             "id": 0,
             "name": "ПДД РФ",
-            "bookId":"ru"
+            "bookId":"ru",
+            "lang":"ru"
         },
         
-{
+        {
             "id": 1,
-            "name": "ПДД Украина",
-            "bookId":"ua"
+            "name": "ПДД Украины",
+            "bookId":"ua",
+            "lang":"ru"
+        },
+        {
+            "id": 2,
+            "name": "ПДР України",
+            "bookId":"ua",
+            "lang":"ru"
         }
     
 ]
