@@ -3,122 +3,122 @@
     {
       "id": 1,
       "name": "1. Общие положения",
-      "path": "pdd_ru/1.html"
+      "documentId" "1"
     },
     {
       "id": 2,
       "name": "2. Общие обязанности водителей",
-      "path": "pdd_ru/2.html"
+      "documentId" "2"
     },
     {
       "id": 3,
       "name": "3. Применение специальных сигналов",
-      "path": "pdd_ru/3.html"
+      "documentId" "3"
     },
     {
       "id": 4,
       "name": "4. Обязанности пешеходов",
-      "path": "pdd_ru/4.html"
+      "documentId" "4"
     },
     {
       "id": 5,
       "name": "5. Обязанности пассажиров",
-      "path": "pdd_ru/5.html"
+      "documentId" "5"
     },
     {
       "id": 6,
       "name": "6. Сигналы светофора и регулировщика",
-      "path": "pdd_ru/6.html"
+      "documentId" "6"
     },
     {
       "id": 7,
       "name": "7. Применение аварийной сигнализации и знака аварийной остановки",
-      "path": "pdd_ru/7.html"
+      "documentId" "7"
     },
     {
       "id": 8,
       "name": "8. Начало движения, маневрирование",
-      "path": "pdd_ru/8.html"
+      "documentId" "8"
     },
     {
       "id": 9,
       "name": "10. Скорость движения",
-      "path": "pdd_ru/9.html"
+      "documentId" "9"
     },
     {
       "id": 10,
       "name": "11. Обгон, опережение, встречный разъезд",
-      "path": "pdd_ru/10.html"
+      "documentId" "10"
     },
     {
       "id": 11,
       "name": "12. Остановка и стоянка",
-      "path": "pdd_ru/11.html"
+      "documentId" "11"
     },
     {
       "id": 12,
       "name": "13. Проезд перекрестков",
-      "path": "pdd_ru/12.html"
+      "documentId" "12"
     },
     {
       "id": 13,
       "name": "14. Пешеходные переходы и места остановок маршрутных транспортных средств",
-      "path": "pdd_ru/13.html"
+      "documentId" "13"
     },
     {
       "id": 14,
       "name": "15. Движение через железнодорожные пути",
-      "path": "pdd_ru/14.html"
+      "documentId" "14"
     },
     {
       "id": 15,
       "name": "16. Движение по автомагистралям",
-      "path": "pdd_ru/15.html"
+      "documentId" "15"
     },
     {
       "id": 16,
       "name": "17. Движение в жилых зонах",
-      "path": "pdd_ru/16.html"
+      "documentId" "16"
     },
     {
       "id": 17,
       "name": "18. Приоритет маршрутных транспортных средств",
-      "path": "pdd_ru/17.html"
+      "documentId" "17"
     },
     {
       "id": 18,
       "name": "19. Пользование внешними световыми приборами и звуковыми сигналами",
-      "path": "pdd_ru/18.html"
+      "documentId" "18"
     },
     {
       "id": 19,
       "name": "20. Буксировка механических транспортных средств",
-      "path": "pdd_ru/19.html"
+      "documentId" "19"
     },
     {
       "id": 20,
       "name": "21. Учебная езда",
-      "path": "pdd_ru/20.html"
+      "documentId" "20"
     },
     {
       "id": 21,
       "name": "22. Перевозка людей",
-      "path": "pdd_ru/21.html"
+      "documentId" "21"
     },
     {
       "id": 22,
       "name": "23. Перевозка грузов",
-      "path": "pdd_ru/22.html"
+      "documentId" "22"
     },
     {
       "id": 23,
       "name": "24. Дополнительные требования к движению велосипедистов и водителей мопедов",
-      "path": "pdd_ru/23.html"
+      "documentId" "23"
     },
     {
       "id": 24,
       "name": "25. Дополнительные требования к движению гужевых повозок, а также к прогону животных",
-      "path": "pdd_ru/24.html"
+      "documentId" "24"
     }
   ]
 }
